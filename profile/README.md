@@ -9,11 +9,8 @@ Do you need help with web development? [Contact us](https://forms.office.com/Pag
 <img src="https://github.com/nbktechworld/.github/raw/main/profile/qr-code-contact-form.png" alt="QRCode for Tech World Software School contact form" width="256" />
 (Scan to access our contact form)
 
+<img align="right" src="https://github.com/nbktechworld/.github/raw/main/profile/instructor-with-present-box.png" alt="Image of an instructor holding a present box in front of his students" width="256" />
 If you appreciate our work, consider becoming a donor. 
 [I want to chip in and contribute](https://linktr.ee/nbktechworld). 
 Your help will ensure we keep making weekly content that is valuable to you!
-
-<div align="right">
-  <img src="https://github.com/nbktechworld/.github/raw/main/profile/instructor-with-present-box.png" alt="Image of an instructor holding a present box in front of his students" width="256" />
-</div>
 Thank you for your kind contribution!
