@@ -16,3 +16,4 @@ Your help will ensure we keep making weekly content that is valuable to you!
 <div align="right">
   <img src="https://github.com/nbktechworld/.github/raw/main/profile/instructor-with-present-box.png" alt="Image of an instructor holding a present box in front of his students" width="256" />
 </div>
+Thank you for your kind contribution!
