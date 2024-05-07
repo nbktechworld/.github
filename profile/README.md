@@ -1,4 +1,6 @@
-<img src="https://github.com/nbktechworld/.github/raw/main/profile/tw-software-school.jpeg" alt="Image of an instructor and students in a classroom, with the word Software on the panel behind the instructor chair" width="512" />
+<div align="center">
+  <img src="https://github.com/nbktechworld/.github/raw/main/profile/tw-software-school.jpeg" alt="Image of an instructor and students in a classroom, with the word Software on the panel behind the instructor chair" width="256" />
+</div>
 
 Join us for weekly lectures about software development. Do you want to be in the next meeting? See the upcoming events on our [Discord server](https://discord.com/invite/MJwGcwcdae).
 
