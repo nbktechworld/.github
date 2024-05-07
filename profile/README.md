@@ -7,3 +7,12 @@ Join us for weekly lectures about software development. Do you want to be in the
 Do you need help with web development? [Contact us](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAABaTHW5UM1gwT01FRjJZUllMTDBIRDZMWk1KV0xEUi4u) and we can schedule a one-on-one coaching call. We'll help you build your app.
 
 <img src="https://github.com/nbktechworld/.github/raw/main/profile/qr-code-contact-form.png" alt="QRCode for Tech World Software School contact form" width="256" />
+(Scan to access our contact form)
+
+If you appreciate our work, consider becoming a donor. 
+[I want to chip in and contribute](https://linktr.ee/nbktechworld). 
+Your help will ensure we keep making weekly content that is valuable to you!
+
+<div align="right">
+  <img src="https://github.com/nbktechworld/.github/raw/main/profile/instructor-with-present-box.png" alt="Image of an instructor holding a present box in front of his students" width="256" />
+</div>
