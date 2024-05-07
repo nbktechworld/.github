@@ -1,3 +1,5 @@
+<img src="https://github.com/nbktechworld/.github/raw/main/profile/tw-software-school.jpeg" alt="Image of an instructor and students in a classroom, with the word Software on the panel behind the instructor chair" width="512" />
+
 Join us for weekly lectures about software development. Do you want to be in the next meeting? See the upcoming events on our [Discord server](https://discord.com/invite/MJwGcwcdae).
 
 Do you need help with web development? [Contact us](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAABaTHW5UM1gwT01FRjJZUllMTDBIRDZMWk1KV0xEUi4u) and we can schedule a one-on-one coaching call. We'll help you build your app.
