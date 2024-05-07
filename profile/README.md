@@ -1,5 +1,5 @@
 <img align="left" src="https://github.com/nbktechworld/.github/raw/main/profile/tw-software-school.jpeg" alt="Image of an instructor and students in a classroom, with the word Software on the panel behind the instructor chair" width="256" />
-Join us for weekly lectures about software development. Do you want to be in the next meeting? See the upcoming events on our [Discord server](https://discord.com/invite/MJwGcwcdae).
+Join us for weekly lectures about software development. Do you want to be in the next meeting? See the upcoming events on our <a href="https://discord.com/invite/MJwGcwcdae" target="_blank" rel="noreferer">Discord server</a>.
 
 <br clear="left">
 <img src="https://github.com/nbktechworld/.github/raw/main/profile/qr-code-contact-form.png" alt="QRCode for Tech World Software School contact form" width="256" />
